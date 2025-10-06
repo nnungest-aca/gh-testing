@@ -11,3 +11,5 @@ example:
 ## Using a squashed commit
 click squash and it will then just show up a single commit.
 - add more than one commit
+
+## Add a rebase example too
